@@ -8,7 +8,7 @@ Apaixonado por tecnologia e em constante busca por conhecimento, estou trilhando
 
 - **Experiência em desenvolvimento front-end e back-end:** Trabalho com Python, JavaScript, HTML, CSS, React, Node.js, Express.js e bancos de dados como PostgreSQL.
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Ícone HTML" width="50" height="50">
-<img src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon.png" alt="Ícone HTML" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="Ícone HTML" width="50" height="50">
 
 ## Habilidades
 
