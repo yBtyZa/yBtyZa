@@ -7,7 +7,7 @@ Apaixonado por tecnologia e em constante busca por conhecimento, estou trilhando
 - **Participante ativo do curso #FloripaMaisTec - FuturoDEV:** Mergulho em desafios práticos e colaboro com uma comunidade vibrante de mentes criativas, buscando inovação e aprimoramento contínuo.
 
 - **Experiência em desenvolvimento front-end e back-end:** Trabalho com Python, JavaScript, HTML, CSS, React, Node.js, Express.js e bancos de dados como PostgreSQL.
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Ícone HTML" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Ícone HTML" width="50" height="50"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDa-EA4uesuJMQ3BlwzHPV9IY4ITvhLSN8vLRyohAh-Q&s" alt="Ícone HTML" width="50" height="50">
 
 ## Habilidades
 
