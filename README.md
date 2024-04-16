@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, me chamo Guilherme Betsa
 
-<!--
-**yBtyZa/yBtyZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia e em constante busca por conhecimento, estou trilhando uma jornada como desenvolvedor Full Stack. Atualmente cursando Análise e Desenvolvimento de Sistemas, estou aprimorando minhas habilidades na arte da criação digital.
 
-Here are some ideas to get you started:
+## Experiência
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Participante ativo do curso #FloripaMaisTec - FuturoDEV:** Mergulho em desafios práticos e colaboro com uma comunidade vibrante de mentes criativas, buscando inovação e aprimoramento contínuo.
+
+- **Experiência em desenvolvimento front-end e back-end:** Trabalho com Python, JavaScript, HTML, CSS, React, Node.js, Express.js e bancos de dados como PostgreSQL.
+
+## Habilidades
+
+- **Abordagem analítica para resolver problemas:** Paixão por transformar ideias em soluções tangíveis.
+- **Mentalidade ágil:** Capacidade de trabalhar em equipe para impulsionar projetos para o sucesso.
+
+## Objetivo
+
+Buscando oportunidades desafiadoras para aplicar meu conhecimento em um ambiente dinâmico, contribuindo com energia e comprometimento para alcançar objetivos em equipe.
