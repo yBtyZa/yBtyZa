@@ -1,27 +1,41 @@
-# Olá, me chamo Guilherme Betsa
+# Guilherme Betsa
 
-Apaixonado por tecnologia e em constante busca por conhecimento, estou trilhando uma jornada como desenvolvedor Full Stack. Atualmente cursando Análise e Desenvolvimento de Sistemas, estou aprimorando minhas habilidades na arte da criação digital.
+### 🚀 Desenvolvedor Full Stack
 
 ## Experiência
+Apaixonado por tecnologia e aprendizado contínuo, estou em constante evolução na criação de soluções digitais inovadoras. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, tenho experiência prática e teórica em desenvolvimento de aplicações web e mobile, trabalhando com tecnologias modernas e metodologias ágeis.
 
-- **Participante ativo do curso #FloripaMaisTec - FuturoDEV:** Mergulho em desafios práticos e colaboro com uma comunidade vibrante de mentes criativas, buscando inovação e aprimoramento contínuo.
+---
 
-- **Experiência em desenvolvimento front-end e back-end:** Trabalho com Python, JavaScript, HTML, CSS, React, Node.js, Express.js e bancos de dados como PostgreSQL.
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Ícone HTML" width="50" height="50">
-<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="Ícone CSS" width="50" height="50">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Ícone JavaScript" width="50" height="50">
-<img src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" alt="Ícone React.js" width="50" height="50">
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Ícone Node.js" width="50" height="50">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Ícone Python" width="50" height="50">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Ícone PostgreSQL" width="50" height="50">
-</div>
+### 🎓 Formação  
+- **Floripa Mais Tec - FuturoDEV:** Experiência em desafios práticos e colaboração em uma comunidade focada em inovação e aprendizado contínuo.  
+- **Análise e Desenvolvimento de Sistemas:** Cursando e ampliando minha base técnica e analítica para resolução de problemas complexos.  
 
-## Habilidades
+---
 
-- **Abordagem analítica para resolver problemas:** Paixão por transformar ideias em soluções tangíveis.
-- **Mentalidade ágil:** Capacidade de trabalhar em equipe para impulsionar projetos para o sucesso.
+### 💻 Experiência Técnica
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, React.js, React Native  
+- **Back-End:** Node.js, Express.js, Sequelize  
+- **Banco de Dados:** PostgreSQL  
+- **Ferramentas:** Git, Docker, CI/CD  
+- **Metodologias:** Ágil (Scrum, Kanban)
+  
+---
 
-## Objetivo
+### 🔍 Perfil Profissional  
+- **Mentalidade Analítica:** Transformo ideias em soluções concretas, abordando cada projeto com foco em eficiência e qualidade.  
+- **Trabalho em Equipe:** Colaboração é minha prioridade, buscando o sucesso coletivo em todos os projetos.  
+- **Inovação e Aprendizado:** Sempre em busca de novas tecnologias e práticas para entregar as melhores soluções.  
 
-Buscando oportunidades desafiadoras para aplicar meu conhecimento em um ambiente dinâmico, contribuindo com energia e comprometimento para alcançar objetivos em equipe.
+---
+
+### 🌟 Objetivo  
+Busco oportunidades desafiadoras em ambientes dinâmicos, onde possa aplicar e expandir meus conhecimentos, contribuindo com energia, dedicação e criatividade para alcançar objetivos coletivos.
+
+#### Desenvolvedor Full Stack  
+**Freelancer | Florianópolis, SC - Remoto**  
+*Jan/2024 - Presente*  
+- Desenvolvimento de aplicações web e mobile utilizando **React.js**, **React Native**, **Node.js** e **PostgreSQL**.  
+- Implementação de soluções completas, desde o planejamento até a entrega final.  
+- Configuração de pipelines de CI/CD e gerenciamento de contêineres com **Docker**.  
+- Integração de sistemas e otimização de desempenho para garantir soluções eficientes e escaláveis.  
